@@ -10,12 +10,67 @@
 #f5f3f4;
 #ffffff; */
 
-footer          {text-align: center; background-color:#161a1d;}
-body            {background-color: #660708; color: white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;} 
-main            {text-align: center;}
-header          {background-color:#161a1d; font-size: 30px;display: inline-block; width:100%; padding:5px}
-header p        {margin: 5px}
-header a        {color:#f5f3f4;}
-header a:hover  {font-weight: bold;}
-.name           {float:left}
-.links          {float: right}
+footer          {
+                text-align: center;
+                background-color:#161a1d;
+                width:100%;
+                position:fixed;
+                left: 0;
+                bottom: 0;
+                }
+
+body            {
+                background-color: #660708;
+                color: white;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin:70px 10px 0px 10px;
+                }
+
+main            {
+                text-align: center;
+                }  
+
+header          {
+                background-color:#161a1d;
+                font-size: 30px;
+                display: flex;
+                width:100%;
+                padding:5px;
+                position: fixed;
+                justify-content: space-between; right:0;
+                left:0;
+                top:0;
+                }
+
+header p        {
+                margin: 5px
+                }
+
+header a        {
+                color:#f5f3f4;
+                }
+
+header a:hover  {
+                font-weight: bold;
+                }
+
+.name           {
+                display:block;
+                }
+
+.links          {
+                margin-right: 20px;
+                display:block;
+                } 
+
+.left           {
+                background-color: #b1a7a6;
+                }
+
+.right          {
+                background-color: #b1a7a6;
+                }
+
+.center         {
+                text-align: center;
+                background-color: #ba181b;
+                }
