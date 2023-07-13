@@ -1,0 +1,21 @@
+/* Color Palette
+#0b090a;
+#161a1d;
+#660708;
+#a4161a;
+#ba181b;
+#e5383b;
+#b1a7a6;
+#d3d3d3;
+#f5f3f4;
+#ffffff; */
+
+footer          {text-align: center; background-color:#161a1d;}
+body            {background-color: #660708; color: white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;} 
+main            {text-align: center;}
+header          {background-color:#161a1d; font-size: 30px;display: inline-block; width:100%; padding:5px}
+header p        {margin: 5px}
+header a        {color:#f5f3f4;}
+header a:hover  {font-weight: bold;}
+.name           {float:left}
+.links          {float: right}
