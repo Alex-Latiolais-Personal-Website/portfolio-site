@@ -22,7 +22,9 @@ footer          {
 body            {
                 background-color: #660708;
                 color: white;
-                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin:70px 10px 0px 10px;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin:70px 10px 10px 10px;
+                padding-bottom: 500px;
                 }
 
 main            {
@@ -73,4 +75,21 @@ header a:hover  {
 .center         {
                 text-align: center;
                 background-color: #ba181b;
+                }
+
+.content        {
+                width:47.5%;
+                border-color: #a4161a;
+                border-width: 2px;
+                border-style: outset;
+                background-color: #a4161a;
+                padding: 4px;
+                }
+
+.cleft          {
+                float:left
+                }
+
+.cright         {
+                float:right
                 }
