@@ -25,6 +25,8 @@ body            {
                 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 margin:70px 10px 10px 10px;
                 padding-bottom: 500px;
+                display: flex;
+                flex-flow: column wrap;
                 }
 
 main            {
@@ -86,10 +88,3 @@ header a:hover  {
                 padding: 4px;
                 }
 
-.cleft          {
-                float:left
-                }
-
-.cright         {
-                float:right
-                }
