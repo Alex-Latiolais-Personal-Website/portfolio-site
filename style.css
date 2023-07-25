@@ -83,3 +83,23 @@ header a:hover  {
                 } 
 
 
+@media (max-width: 667px) {
+    header      {
+                font-size: 25px;
+                }
+    main        {
+                flex-flow: column;
+                align-items: center;
+                }
+    .content    {width: 90%;}
+}
+@media (max-width: 557px) {
+    header      {
+                font-size: 20px;
+    }
+}
+@media (max-width: 457px) {
+    header      {
+                font-size: 15px;
+    }
+}
