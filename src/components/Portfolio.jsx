@@ -9,49 +9,46 @@ function Portfolio() {
 
       <main>
         <div className="content">
-          <h2>Project 1</h2>
+          <h2>React Router Practice</h2>
           <p>
-            Lorem ipsum dolumbus jumbocus flibbertigibbet, splish-splash
-            blibber-blabber oodle-noodle! Ziggity-zaggity wobble-dobble
-            fiddle-faddle, piddly-widdly wubble-dubble wacky-dacky!
-            Gibber-gabber jibber-jabber hokey-pokey, hocus-pocus wibbly-wobbly
-            higgledy-piggledy! Puffety-puffety jiggly-wiggly snicker-snack,
-            noodly-boodly higgledy-piggledy tickle-trick! Bippity-boppity
-            squiggly-wiggly dingle-dangle, pitter-patter fiddle-faddle
-            wobble-wobble! Note: The above text is nonsensical and serves as a
-            placeholder for demonstration purposes only. It does not have any
-            meaningful content.
+            color + route change when clicking on different colors
+          https://mellow-fudge-ea611f.netlify.app/home
           </p>
         </div>
 
         <div className="content">
-          <h2>Project 2</h2>
+          <h2>React App Color</h2>
           <p>
-            Lorem ipsum dolumbus jumbocus flibbertigibbet, splish-splash
-            blibber-blabber oodle-noodle! Ziggity-zaggity wobble-dobble
-            fiddle-faddle, piddly-widdly wubble-dubble wacky-dacky!
-            Gibber-gabber jibber-jabber hokey-pokey, hocus-pocus wibbly-wobbly
-            higgledy-piggledy! Puffety-puffety jiggly-wiggly snicker-snack,
-            noodly-boodly higgledy-piggledy tickle-trick! Bippity-boppity
-            squiggly-wiggly dingle-dangle, pitter-patter fiddle-faddle
-            wobble-wobble! Note: The above text is nonsensical and serves as a
-            placeholder for demonstration purposes only. It does not have any
-            meaningful content.
+            Color label changes when a circle is clicked without the app reloading
+            https://bright-gecko-87a4af.netlify.app/
           </p>
         </div>
         <div className="content">
-          <h2>Project 3</h2>
+          <h2>Signup Practice</h2>
           <p>
-            Lorem ipsum dolumbus jumbocus flibbertigibbet, splish-splash
-            blibber-blabber oodle-noodle! Ziggity-zaggity wobble-dobble
-            fiddle-faddle, piddly-widdly wubble-dubble wacky-dacky!
-            Gibber-gabber jibber-jabber hokey-pokey, hocus-pocus wibbly-wobbly
-            higgledy-piggledy! Puffety-puffety jiggly-wiggly snicker-snack,
-            noodly-boodly higgledy-piggledy tickle-trick! Bippity-boppity
-            squiggly-wiggly dingle-dangle, pitter-patter fiddle-faddle
-            wobble-wobble! Note: The above text is nonsensical and serves as a
-            placeholder for demonstration purposes only. It does not have any
-            meaningful content.
+            Basic signup page with authentication token
+            https://sweet-pika-73be19.netlify.app/
+          </p>
+        </div>
+        <div className="content">
+          <h2>API Practice</h2>
+          <p>
+            Contact list grid pulling data from an API
+            https://clinquant-shortbread-cbd75a.netlify.app/
+          </p>
+        </div>
+        <div className="content">
+          <h2>Capstone Project - GameNebula</h2>
+          <p>
+            Storefront for a Game store
+            (add video demo)
+          </p>
+        </div>
+        <div className="content">
+          <h2>Personal website - Andrea Bourque</h2>
+          <p>
+            A personal website for my girlfriend, all styling done by me.
+            https://abourque72.github.io/
           </p>
         </div>
       </main>
