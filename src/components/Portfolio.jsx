@@ -51,6 +51,39 @@ function Portfolio() {
             https://abourque72.github.io/
           </p>
         </div>
+        </main>
+        <div className="center">
+          <h1>Python</h1>
+        </div>
+        <main>
+        <div className="content">
+          <h2>Alphabet w/ Python turtle</h2>
+          <p>
+            Self explanitory! The alphabet written in python using Turtle.
+            https://replit.com/@al174017/turtle-alphabet?v=1
+          </p>
+        </div>
+        <div className="content">
+          <h2>Holiday Card</h2>
+          <p>
+            A small Christmas card made with python + tkinter.
+            https://replit.com/@al174017/holiday-card?v=1
+          </p>
+        </div>
+        <div className="content">
+          <h2>Final Project (CS I)</h2>
+          <p>
+            A clicker game based on AdVenture Capitalist making use of loops.
+            https://replit.com/@al174017/final?v=1
+          </p>
+        </div>
+        <div className="content">
+          <h2>Midterm Project (CS I)</h2>
+          <p>
+            A silly choose your own adventure using loops.
+            https://replit.com/@al174017/midterm?v=1
+          </p>
+        </div>
       </main>
     </>
   );
