@@ -38,7 +38,8 @@ function About() {
             beat.
           </p>
         </div>
-
+        
+        
         <div className="content">
           <h2>Schools</h2>
           <p>
