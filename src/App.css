@@ -10,96 +10,104 @@
 #f5f3f4;
 #ffffff; */
 
-footer          {
+footer {
   text-align: center;
-  background-color:#161a1d;
-  width:100%;
-  position:fixed;
+  background-color: #161a1d;
+  width: 100%;
+  position: fixed;
   left: 0;
   bottom: 0;
-  }
+}
 
-body            {
+body {
   background-color: #660708;
   color: white;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin:70px 10px 10px 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 70px 10px 10px 10px;
   padding-bottom: 50px;
-  }
+}
 
-main            {
+main {
   text-align: center;
   display: flex;
   flex-flow: row wrap;
   align-items: flex-start;
   justify-content: center;
-  }  
+}
+ul {
+  text-align: left;
+}
+h3 {
+  text-align: left;
+}
 
-.center         {
+.center {
   text-align: center;
   background-color: #ba181b;
-  }
+}
 
-.content        {
+.content {
   border-color: #a4161a;
   border-width: 2px;
   border-style: outset;
   background-color: #a4161a;
   padding: 4px;
   width: 46%;
-  }
+}
 
-header          {
-  background-color:#161a1d;
+header {
+  background-color: #161a1d;
   font-size: 30px;
   display: flex;
-  width:100%;
-  padding:5px;
+  width: 100%;
+  padding: 5px;
   position: fixed;
-  justify-content: space-between; right:0;
-  left:0;
-  top:0;
-  }
+  justify-content: space-between;
+  right: 0;
+  left: 0;
+  top: 0;
+}
 
-header p        {
-  margin: 5px
-  }
+header p {
+  margin: 5px;
+}
 
-header a        {
-  color:#f5f3f4;
-  }
+header a {
+  color: #f5f3f4;
+}
 
-header a:hover  {
+header a:hover {
   font-weight: bold;
-  }
+}
 
-.name           {
-  display:block;
-  }
+.name {
+  display: block;
+}
 
-.links          {
+.links {
   margin-right: 20px;
-  display:block;
-  } 
-
+  display: block;
+}
 
 @media (max-width: 667px) {
-header      {
-  font-size: 25px;
+  header {
+    font-size: 25px;
   }
-main        {
-  flex-flow: column;
-  align-items: center;
+  main {
+    flex-flow: column;
+    align-items: center;
   }
-.content    {width: 90%;}
+  .content {
+    width: 90%;
+  }
 }
 @media (max-width: 557px) {
-header      {
-  font-size: 20px;
-}
+  header {
+    font-size: 20px;
+  }
 }
 @media (max-width: 457px) {
-header      {
-  font-size: 15px;
-}
+  header {
+    font-size: 15px;
+  }
 }

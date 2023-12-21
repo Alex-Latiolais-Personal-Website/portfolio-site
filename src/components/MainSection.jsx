@@ -6,16 +6,16 @@ import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 
 function MainSection() {
-    return (
-        <div>
-            <Routes>
-                <Route path="/" element={<Home />}/>
-                <Route path="/about" element={<About />}/>
-                <Route path="/portfolio" element={<Portfolio />}/>
-                <Route path="/contact" element={<Contact />} />
-            </Routes>
-        </div>
-    )
+  return (
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+    </div>
+  );
 }
 
 export default MainSection;
