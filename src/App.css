@@ -41,6 +41,10 @@ h3 {
   text-align: left;
 }
 
+a {
+  color: white
+}
+
 .center {
   text-align: center;
   background-color: #ba181b;
