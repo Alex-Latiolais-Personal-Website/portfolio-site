@@ -95,7 +95,7 @@ function About() {
           <ul>
             <li>CIW Web Development - 2020</li>
             <li>Customer Service and Sales - 2021</li>
-            <li>Acklnowledgements:</li>
+            <li>Acknowledgements:</li>
             <ul>
               <li>CIW Internet Business - 2019</li>
               <li>CIW Website Development - 2020</li>
