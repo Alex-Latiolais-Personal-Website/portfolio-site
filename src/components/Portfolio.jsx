@@ -40,9 +40,9 @@ function Portfolio() {
         <div className="content">
           <h2>Capstone Project - GameNebula</h2>
           <p>
-            Storefront for a Game store
-            (add video demo)
+            Storefront for a Game store! I did most of the styling, as well as converting basic HTML components to MUI. All done with react, as well as an SQL database.
           </p>
+          <iframe src="https://www.youtube.com/embed/2hg9sSgeASY?si=vCbkTWevnsYMVtuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div className="content">
           <h2>Personal website - Andrea Bourque</h2>
