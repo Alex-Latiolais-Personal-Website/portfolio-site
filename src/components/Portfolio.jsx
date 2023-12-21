@@ -13,7 +13,7 @@ function Portfolio() {
           <p>
             color + route change when clicking on different colors
           </p>
-          <a href={"https://mellow-fudge-ea611f.netlify.app/home"} target="new">Link</a>
+          <a href={"https://mellow-fudge-ea611f.netlify.app/"} target="new">Link</a>
         </div>
 
         <div className="content">
