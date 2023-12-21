@@ -95,7 +95,7 @@ function About() {
           <ul>
             <li>CIW Web Development - 2020</li>
             <li>Customer Service and Sales - 2021</li>
-            <li>Acklnowledgements:</li>
+            <li>Acknowledgements:</li>
             <ul>
               <li>CIW Internet Business - 2019</li>
               <li>CIW Website Development - 2020</li>
@@ -106,6 +106,31 @@ function About() {
           <h3>Fullstack Academy</h3>
           <ul>
             <li>Web Development - 2023</li>
+          </ul>
+        </div>
+        <div className="content">
+          <h2>Skills</h2>
+          <h3>Baton Rouge High</h3>
+          <ul>
+            <li>HTML5</li>
+            <li>CSS</li>
+            <li>Python</li>
+            <li>AutoCAD</li>
+            <li>Microsoft Suite</li>
+            <li>Google suite</li>
+          </ul>
+          <h3>Louisiana State University</h3>
+          <ul>
+            <li>C++</li>
+          </ul>
+          <h3>Fullstack Academy</h3>
+          <ul>
+            <li>JavaScript</li>
+            <li>Git</li>
+            <li>SQL</li>
+            <li>React</li>
+            <li>MUI</li>
+            <li>Node</li>
           </ul>
         </div>
       </main>
