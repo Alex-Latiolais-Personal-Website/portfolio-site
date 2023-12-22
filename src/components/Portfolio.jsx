@@ -36,6 +36,13 @@ function Portfolio() {
             Contact list grid pulling data from an API
           </p>
           <a href={"https://clinquant-shortbread-cbd75a.netlify.app/"} target="new">Link</a>
+        </div>        
+        <div className="content">
+          <h2>Stranger's Things</h2>
+          <p>
+            An online marketplace website.
+          </p>
+          <a href={"https://chimerical-croissant-6ce3d2.netlify.app/"} target="new">Link</a>
         </div>
         <div className="content">
           <h2>Capstone Project - GameNebula</h2>
@@ -51,6 +58,7 @@ function Portfolio() {
           </p>
           <a href={"https://abourque72.github.io/"} target="new">Link</a>
         </div>
+
         </main>
         <div className="center">
           <h1>Python</h1>
