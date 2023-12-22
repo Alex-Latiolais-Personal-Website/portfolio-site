@@ -93,6 +93,12 @@ header a:hover {
   display: block;
 }
 
+@media (min-width: 1200px) {
+  .content {
+    width: 25%;
+  }
+}
+
 @media (max-width: 667px) {
   header {
     font-size: 25px;

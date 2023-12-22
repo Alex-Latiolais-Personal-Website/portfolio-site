@@ -9,7 +9,8 @@ function Navbar() {
         <Link to="/">Home</Link> |&nbsp;
         <Link to="/About">About</Link> |&nbsp;
         <Link to="/Portfolio">Portfolio</Link> |&nbsp;
-        <Link to="/Contact">Contact</Link>
+        <Link to="/Contact">Contact</Link> |&nbsp;
+        <Link to="/Miscellaneous">Misc</Link>
       </p>
     </header>
   );
